@@ -285,6 +285,10 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  width: 500px;
+  /* Define a largura da imagem */
+  height: auto;
+  /* Mantém a proporção original da imagem */
 }
 
 .arrow {
@@ -369,6 +373,7 @@ article .icon {
   width: 90%;
   height: 90%;
 }
+
 
 .project-title {
   margin: 1rem;
